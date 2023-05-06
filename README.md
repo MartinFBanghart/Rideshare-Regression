@@ -14,6 +14,8 @@ Within the dashboard, there are various pages with interactable features allowin
 
 The tuning of the plots and models simply require user text input for hyperparameter variables or toggling of explanatory variables to be incorporated in the model via drop down selection.
 
+** The models are setup with the target variable initialized as the price of a rideshare service
+
 
 ## How to Run
 
